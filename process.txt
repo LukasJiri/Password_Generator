@@ -1,5 +1,3 @@
-1. nazev Password_Generator OK
-2. prvni stranka - udelat rozloženi GUI -  velka pismena, specialni znaky, cisla OK
 3. delka hesla 20-30 znaků
 4. varovani pokud je heslo slabe
 5. Zajištění, že generovaná hesla jsou dostatečně silná. ne stejne veci po sobe
@@ -7,7 +5,10 @@
 7. dat do exe - s heslem
 
 
-AKTIVOVAT VIRTUALNI PROSTŘEDI OK
 NEZAPOMENOUT NA GIT + GIT HUB
 requirements.txt - pro knihovny (pip install -r requirements.txt)
 ZABEZPECENI = JE KOD BEZPECNY? + TEST
+
+Funkce
+-při odškrtnuti varovna hlaška
+
